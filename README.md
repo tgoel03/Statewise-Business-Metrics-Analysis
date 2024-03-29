@@ -1,4 +1,4 @@
-# Understanding-the-Impact-of-Spend-across-State
+# Statewise Business Metrics Analysis
 
 ## Exploratory Analysis and Multivariate Testing: Understanding the Impact of 'R&D Spend', 'Administration', and 'Marketing Spend' across 'State' Categories
 
