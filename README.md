@@ -24,10 +24,11 @@ The exploration of these questions aims to shed light on the relationship betwee
 ### About the Dataset:
 The dataset under consideration comprises information related to 'R&D Spend', 'Administration', 'Marketing Spend', and 'State' for various companies. Each entry within the dataset represents different companies operating across different states in the United States. Here is a breakdown of the columns:
 
-'R&D Spend': Expenditure on Research and Development
-'Administration': Expenditure on Administrative Operations
-'Marketing Spend': Expenditure on Marketing Activities
-'State': Categorical variable denoting the state in which the company operates
+1. 'R&D Spend': Expenditure on Research and Development
+2. 'Administration': Expenditure on Administrative Operations
+3. 'Marketing Spend': Expenditure on Marketing Activities
+4. 'State': Categorical variable denoting the state in which the company operates
+
 The dataset encompasses information that allows us to explore how different states differ or resemble each other in terms of these business expenses, paving the way for a comprehensive multivariate analysis.
 
 Feel free to expand further on the dataset description, providing insights into the size of the dataset, the source of the data, any data preprocessing steps performed, or any additional details relevant to understanding the context of the analysis. Adjust and expand upon this introduction and dataset description as needed to best fit your project's specifics.
